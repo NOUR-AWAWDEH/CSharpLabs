@@ -1,4 +1,7 @@
-﻿namespace TheMaximumProfit
+﻿using System.Diagnostics;
+using System.Numerics;
+
+namespace TheMaximumProfit
 {
 
     /*
@@ -35,45 +38,68 @@
     
      */
 
+
+
+
+
+
     public class Program
     {
         static void Main(string[] args)
         {
-            List<int> prices = [7, 1, 5, 3, 6, 4];
-
-
+            List<int> prices = new List<int> { 7, 1, 5, 3, 6, 4 };
             Program program = new Program();
             int maxProfit = program.MaxProfit(prices);
-
             Console.ReadLine();
         }
 
         public int MaxProfit(List<int> prices) 
         {
+            if (prices == null || prices.Count < 2)
+            {
+                return 0;
+            }
+
+            int[]arr = GetMinMaxValue(prices);
+            int minimumPrice = arr[0];
+            int maximumPrice = arr[1];
+
+            int maxProfit = CalcualeMaxProfit(ref maximumPrice,ref minimumPrice);
+            PrintResualt(maxProfit ,minimumPrice ,maximumPrice );
+
+            return maxProfit;
+        }
+
+        private int[] GetMinMaxValue(List<int> prices)
+        {
+            int[] resault = new int[2];
             int minimumPrice = prices[prices.Count - 1];
             int maximumPrice = prices[prices.Count - 1];
 
-            for (int index = 0 ; index < prices.Count - 1 ; index++)
+            for (int index = 0; index < prices.Count - 1; index++)
             {
                 if (minimumPrice > prices[index])
                 {
                     maximumPrice = minimumPrice;
-                    minimumPrice = prices[index];    
+                    minimumPrice = prices[index];
                 }
 
-                if(maximumPrice < prices[index]) 
+                if (maximumPrice < prices[index])
                 {
                     maximumPrice = prices[index];
                 }
-                
-            }
 
-            int maxProfit = maximumPrice - minimumPrice;
-            PrintResualt(maxProfit ,minimumPrice ,maximumPrice );
-            return maxProfit;
+            }
+            resault[0] = minimumPrice; resault[1] = maximumPrice;
+            return resault;
+        }
+       
+        private int CalcualeMaxProfit(ref int maximumPrice, ref int minimumPrice) 
+        {
+            return  (maximumPrice - minimumPrice) ;
         }
 
-        public void PrintResualt(int maxProfit,int minimumPrice, int maximumPrice) 
+        private void PrintResualt(int maxProfit, int minimumPrice, int maximumPrice)
         {
             if (maxProfit != 0)
             {
@@ -84,5 +110,53 @@
                 Console.WriteLine($"Output: {maxProfit}(In this case, no valid profit can be made)");
             }
         }
+    
     }
 }
+
+
+//Test Case 
+/*
+
+
+    Typical Case:
+        Input: [7, 1, 5, 3, 6, 4]
+        Expected Output: 5 (Buy at 1, Sell at 6)
+
+    No Profit Possible:
+        Input: [7, 6, 4, 3, 1]
+        Expected Output: 0 (Prices are always decreasing)
+
+    Single Day Price:
+        Input: [5]
+        Expected Output: 0 (Not enough prices to buy and sell)
+
+    Two Days Price, Profit Possible:
+        Input: [1, 5]
+        Expected Output: 4 (Buy at 1, Sell at 5)
+
+    Two Days Price, No Profit:
+        Input: [5, 1]
+        Expected Output: 0 (Price decreases, no profit)
+
+    All Same Prices:
+        Input: [3, 3, 3, 3, 3]
+        Expected Output: 0 (No profit possible as prices are the same)
+
+    Large Jump in Price:
+        Input: [1, 2, 3, 4, 5, 100]
+        Expected Output: 99 (Buy at 1, Sell at 100)
+
+    Random Prices with Multiple Profits Possible:
+        Input: [2, 4, 1, 7, 5, 3, 6, 4]
+        Expected Output: 6 (Buy at 1, Sell at 7)
+
+    Early Peak:
+        Input: [10, 7, 5, 8, 11, 9]
+        Expected Output: 6 (Buy at 5, Sell at 11)
+
+    Late Peak:
+        Input: [2, 1, 2, 0, 1]
+        Expected Output: 1 (Buy at 1, Sell at 2)
+
+ */
