@@ -39,65 +39,37 @@ namespace TheMaximumProfit
      */
 
 
-
-
-
-
     public class Program
     {
         static void Main(string[] args)
         {
-            List<int> prices = new List<int> { 7, 1, 5, 3, 6, 4 };
+            List<int> prices = new List<int> { 10, 5, 3, 6, 1, 7};
             Program program = new Program();
             int maxProfit = program.MaxProfit(prices);
             Console.ReadLine();
         }
 
-        public int MaxProfit(List<int> prices) 
+        public int MaxProfit(List<int> prices)
         {
             if (prices == null || prices.Count < 2)
             {
-                return 0;
+                return 0; // here you mean it Cannot make a profit with less than 2 prices which is correct 
             }
 
-            int[]arr = GetMinMaxValue(prices);
-            int minimumPrice = arr[0];
-            int maximumPrice = arr[1];
+            int minPrice = prices[0]; // start from the first element of the the list 
+            int maxProfit = 0;
+            int currentPrice = 0;
+            for (int i = 1; i < prices.Count; i++)
+            {
+                currentPrice = prices[i];
+                maxProfit = Math.Max(maxProfit, currentPrice - minPrice);
+                minPrice = Math.Min(minPrice, currentPrice);
+            }
 
-            int maxProfit = CalcualeMaxProfit(ref maximumPrice,ref minimumPrice);
-            PrintResualt(maxProfit ,minimumPrice ,maximumPrice );
-
+            PrintResualt(maxProfit, minPrice, currentPrice);
             return maxProfit;
         }
 
-        private int[] GetMinMaxValue(List<int> prices)
-        {
-            int[] resault = new int[2];
-            int minimumPrice = prices[prices.Count - 1];
-            int maximumPrice = prices[prices.Count - 1];
-
-            for (int index = 0; index < prices.Count - 1; index++)
-            {
-                if (minimumPrice > prices[index])
-                {
-                    maximumPrice = minimumPrice;
-                    minimumPrice = prices[index];
-                }
-
-                if (maximumPrice < prices[index])
-                {
-                    maximumPrice = prices[index];
-                }
-
-            }
-            resault[0] = minimumPrice; resault[1] = maximumPrice;
-            return resault;
-        }
-       
-        private int CalcualeMaxProfit(ref int maximumPrice, ref int minimumPrice) 
-        {
-            return  (maximumPrice - minimumPrice) ;
-        }
 
         private void PrintResualt(int maxProfit, int minimumPrice, int maximumPrice)
         {
@@ -110,6 +82,7 @@ namespace TheMaximumProfit
                 Console.WriteLine($"Output: {maxProfit}(In this case, no valid profit can be made)");
             }
         }
+
     
     }
 }
