@@ -32,7 +32,8 @@ namespace TheMaximumProfit
         Soution :
 
         1. Find the Smallest Value.
-        2. Find the largest value, but ensure that your chosen value that has higher index than the index of that value.
+        2. Find the largest value, but ensure that your chosen value
+ that has higher index than the index of that value.
             2.2 return 0 if this requirement is false.  
             2.3 return the MaxProfit.   
     
