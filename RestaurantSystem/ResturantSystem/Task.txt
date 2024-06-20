@@ -1,0 +1,23 @@
+﻿Restaurant Table Reservation. 
+Problem Statement:
+You are developing a table reservation system for a restaurant. The restaurant has a limited number of tables, and each table can be reserved for a specific time slot. You need to manage the reservations and ensure no double bookings for any table at any given time.
+ • Requirements:
+ 1. Add a Reservation: Add a new reservation if the table is available at the requested time.
+ 2. Cancel a Reservation: Remove a reservation given the table number and time slot.
+ 3. View Reservations: Display all reservations.
+
+
+Example:
+ 1. Add a Reservation:
+ • Input: AddReservation(1, "Alice", "18:00")
+ • Output: Reservation added for Alice at table 1 for 18:00.
+ 2. Cancel a Reservation:
+ • Input: CancelReservation(1, "18:00")
+ • Output: Reservation for table 1 at 18:00 has been canceled.
+ 3. View Reservations:
+ • Input: ViewReservations()
+ • Output:sqlCopy code  Current Reservations:
+ • Table 1: Alice at 18:00
+ • Table 2: Bob at 19:00
+
+🎯P.S: you should come up with your solutions approach before implementing the code( meaning your idea on how to solve this given problem)

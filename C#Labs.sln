@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-AsteriskTree", "1-Asteris
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-ABCTree", "2-ABCTree\2-ABCTree.csproj", "{8530D415-B22D-4290-AF45-8AE14F1E7280}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMaximumProfit", "TheMaximumProfit\TheMaximumProfit.csproj", "{4286C945-79BD-474B-8F21-D172A169ABCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheMaximumProfit", "TheMaximumProfit\TheMaximumProfit.csproj", "{4286C945-79BD-474B-8F21-D172A169ABCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
