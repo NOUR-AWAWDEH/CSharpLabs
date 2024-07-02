@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-ABCTree", "2-ABCTree\2-AB
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheMaximumProfit", "TheMaximumProfit\TheMaximumProfit.csproj", "{4286C945-79BD-474B-8F21-D172A169ABCD}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeliveryCompanyPackageRoutesApp", "DeliveryCompanyPackageRoutes\DeliveryCompanyPackageRoutes\DeliveryCompanyPackageRoutesApp\DeliveryCompanyPackageRoutesApp.csproj", "{05520530-AC6F-4A89-BCBA-F85ACE45CC0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestaurantTableReservation", "RestaurantSystem\ResturantSystem\RestaurantTableReservation.csproj", "{BD033B47-33C7-4D60-96A1-CF54139413D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{4286C945-79BD-474B-8F21-D172A169ABCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4286C945-79BD-474B-8F21-D172A169ABCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4286C945-79BD-474B-8F21-D172A169ABCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05520530-AC6F-4A89-BCBA-F85ACE45CC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05520530-AC6F-4A89-BCBA-F85ACE45CC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05520530-AC6F-4A89-BCBA-F85ACE45CC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05520530-AC6F-4A89-BCBA-F85ACE45CC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD033B47-33C7-4D60-96A1-CF54139413D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD033B47-33C7-4D60-96A1-CF54139413D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD033B47-33C7-4D60-96A1-CF54139413D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD033B47-33C7-4D60-96A1-CF54139413D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
