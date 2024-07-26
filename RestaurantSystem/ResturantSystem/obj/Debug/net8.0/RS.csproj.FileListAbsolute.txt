@@ -1,0 +1,14 @@
+C:\Users\noura\Desktop\RS\RS\bin\Debug\net8.0\RS.exe
+C:\Users\noura\Desktop\RS\RS\bin\Debug\net8.0\RS.deps.json
+C:\Users\noura\Desktop\RS\RS\bin\Debug\net8.0\RS.runtimeconfig.json
+C:\Users\noura\Desktop\RS\RS\bin\Debug\net8.0\RS.dll
+C:\Users\noura\Desktop\RS\RS\bin\Debug\net8.0\RS.pdb
+C:\Users\noura\Desktop\RS\RS\obj\Debug\net8.0\RS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noura\Desktop\RS\RS\obj\Debug\net8.0\RS.AssemblyInfoInputs.cache
+C:\Users\noura\Desktop\RS\RS\obj\Debug\net8.0\RS.AssemblyInfo.cs
+C:\Users\noura\Desktop\RS\RS\obj\Debug\net8.0\RS.csproj.CoreCompileInputs.cache
+C:\Users\noura\Desktop\RS\RS\obj\Debug\net8.0\RS.dll
+C:\Users\noura\Desktop\RS\RS\obj\Debug\net8.0\refint\RS.dll
+C:\Users\noura\Desktop\RS\RS\obj\Debug\net8.0\RS.pdb
+C:\Users\noura\Desktop\RS\RS\obj\Debug\net8.0\RS.genruntimeconfig.cache
+C:\Users\noura\Desktop\RS\RS\obj\Debug\net8.0\ref\RS.dll

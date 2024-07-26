@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\2_AddTowNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD969746-6599-4D06-AF2F-46FD52E7206B}|2_AddTowNumbers\\2_AddTowNumbers.csproj|c:\\users\\user\\desktop\\2_addtownumbers\\2_addtownumbers\\solutionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD969746-6599-4D06-AF2F-46FD52E7206B}|2_AddTowNumbers\\2_AddTowNumbers.csproj|solutionrelative:2_addtownumbers\\solutionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD969746-6599-4D06-AF2F-46FD52E7206B}|2_AddTowNumbers\\2_AddTowNumbers.csproj|c:\\users\\user\\desktop\\2_addtownumbers\\2_addtownumbers\\listnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD969746-6599-4D06-AF2F-46FD52E7206B}|2_AddTowNumbers\\2_AddTowNumbers.csproj|solutionrelative:2_addtownumbers\\listnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SolutionBase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\2_AddTowNumbers\\2_AddTowNumbers\\SolutionBase.cs",
+              "RelativeDocumentMoniker": "2_AddTowNumbers\\SolutionBase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\2_AddTowNumbers\\2_AddTowNumbers\\SolutionBase.cs",
+              "RelativeToolTip": "2_AddTowNumbers\\SolutionBase.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:18:28.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListNode.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\2_AddTowNumbers\\2_AddTowNumbers\\ListNode.cs",
+              "RelativeDocumentMoniker": "2_AddTowNumbers\\ListNode.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\2_AddTowNumbers\\2_AddTowNumbers\\ListNode.cs",
+              "RelativeToolTip": "2_AddTowNumbers\\ListNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:55:22.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

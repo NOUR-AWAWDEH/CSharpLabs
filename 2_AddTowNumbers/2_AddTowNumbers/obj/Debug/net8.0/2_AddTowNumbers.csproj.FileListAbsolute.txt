@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\2_AddTowNumbers\2_AddTowNumbers\obj\Debug\net8.0\2_AddTowNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\2_AddTowNumbers\2_AddTowNumbers\obj\Debug\net8.0\2_AddTowNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\2_AddTowNumbers\2_AddTowNumbers\obj\Debug\net8.0\2_AddTowNumbers.AssemblyInfo.cs
+C:\Users\User\Desktop\2_AddTowNumbers\2_AddTowNumbers\obj\Debug\net8.0\2_AddTowNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2_AddTowNumbers\2_AddTowNumbers\bin\Debug\net8.0\2_AddTowNumbers.exe
+C:\Users\User\Desktop\2_AddTowNumbers\2_AddTowNumbers\bin\Debug\net8.0\2_AddTowNumbers.deps.json
+C:\Users\User\Desktop\2_AddTowNumbers\2_AddTowNumbers\bin\Debug\net8.0\2_AddTowNumbers.runtimeconfig.json
+C:\Users\User\Desktop\2_AddTowNumbers\2_AddTowNumbers\bin\Debug\net8.0\2_AddTowNumbers.dll
+C:\Users\User\Desktop\2_AddTowNumbers\2_AddTowNumbers\bin\Debug\net8.0\2_AddTowNumbers.pdb
+C:\Users\User\Desktop\2_AddTowNumbers\2_AddTowNumbers\obj\Debug\net8.0\2_AddTowNumbers.dll
+C:\Users\User\Desktop\2_AddTowNumbers\2_AddTowNumbers\obj\Debug\net8.0\refint\2_AddTowNumbers.dll
+C:\Users\User\Desktop\2_AddTowNumbers\2_AddTowNumbers\obj\Debug\net8.0\2_AddTowNumbers.pdb
+C:\Users\User\Desktop\2_AddTowNumbers\2_AddTowNumbers\obj\Debug\net8.0\2_AddTowNumbers.genruntimeconfig.cache
+C:\Users\User\Desktop\2_AddTowNumbers\2_AddTowNumbers\obj\Debug\net8.0\ref\2_AddTowNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\1-AsteriskTree\bin\Debug\net8.0\1-AsteriskTree.exe
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\1-AsteriskTree\bin\Debug\net8.0\1-AsteriskTree.deps.json
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\1-AsteriskTree\bin\Debug\net8.0\1-AsteriskTree.runtimeconfig.json
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\1-AsteriskTree\bin\Debug\net8.0\1-AsteriskTree.dll
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\1-AsteriskTree\bin\Debug\net8.0\1-AsteriskTree.pdb
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\1-AsteriskTree\obj\Debug\net8.0\1-AsteriskTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\1-AsteriskTree\obj\Debug\net8.0\1-AsteriskTree.AssemblyInfoInputs.cache
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\1-AsteriskTree\obj\Debug\net8.0\1-AsteriskTree.AssemblyInfo.cs
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\1-AsteriskTree\obj\Debug\net8.0\1-AsteriskTree.csproj.CoreCompileInputs.cache
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\1-AsteriskTree\obj\Debug\net8.0\1-AsteriskTree.dll
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\1-AsteriskTree\obj\Debug\net8.0\refint\1-AsteriskTree.dll
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\1-AsteriskTree\obj\Debug\net8.0\1-AsteriskTree.pdb
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\1-AsteriskTree\obj\Debug\net8.0\1-AsteriskTree.genruntimeconfig.cache
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\1-AsteriskTree\obj\Debug\net8.0\ref\1-AsteriskTree.dll

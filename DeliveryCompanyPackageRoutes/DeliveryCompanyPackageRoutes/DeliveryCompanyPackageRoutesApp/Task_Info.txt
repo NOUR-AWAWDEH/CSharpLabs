@@ -1,0 +1,21 @@
+﻿
+
+Problem Statement:
+You are working for a delivery company that needs to optimize its package delivery routes.
+The city is represented as a grid of intersections, and some intersections have traffic lights,
+while others do not. Traffic lights cause a delay of 2 minutes per intersection.
+You are given the following inputs:
+
+- A 2D array cityGrid where cityGrid[i][j] is:
+  - 0 if there is no traffic light at the intersection (i, j)
+  - 1 if there is a traffic light at the intersection (i, j)
+- The coordinates of the delivery depot (depotX, depotY)
+- The coordinates of the delivery destination (destX, destY)
+
+Requirements:
+1. Use appropriate data structures to represent the city grid and track the shortest path.
+2. Implement a pathfinding algorithm (e.g., Dijkstra's algorithm or A* algorithm) 
+to find the optimal route considering 
+   the traffic light delays.
+3. Ensure your solution handles edge cases, such as unreachable 
+destinations and varying grid sizes.

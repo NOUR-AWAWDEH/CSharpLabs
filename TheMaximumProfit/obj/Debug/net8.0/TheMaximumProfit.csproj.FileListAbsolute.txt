@@ -1,0 +1,15 @@
+C:\Users\noura\Desktop\Work\C#\C#Labs\C#Probleme-Solving\TheMaximumProfit\bin\Debug\net8.0\TheMaximumProfit.exe
+C:\Users\noura\Desktop\Work\C#\C#Labs\C#Probleme-Solving\TheMaximumProfit\bin\Debug\net8.0\TheMaximumProfit.deps.json
+C:\Users\noura\Desktop\Work\C#\C#Labs\C#Probleme-Solving\TheMaximumProfit\bin\Debug\net8.0\TheMaximumProfit.runtimeconfig.json
+C:\Users\noura\Desktop\Work\C#\C#Labs\C#Probleme-Solving\TheMaximumProfit\bin\Debug\net8.0\TheMaximumProfit.dll
+C:\Users\noura\Desktop\Work\C#\C#Labs\C#Probleme-Solving\TheMaximumProfit\bin\Debug\net8.0\TheMaximumProfit.pdb
+C:\Users\noura\Desktop\Work\C#\C#Labs\C#Probleme-Solving\TheMaximumProfit\obj\Debug\net8.0\TheMaximumProfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noura\Desktop\Work\C#\C#Labs\C#Probleme-Solving\TheMaximumProfit\obj\Debug\net8.0\TheMaximumProfit.AssemblyInfoInputs.cache
+C:\Users\noura\Desktop\Work\C#\C#Labs\C#Probleme-Solving\TheMaximumProfit\obj\Debug\net8.0\TheMaximumProfit.AssemblyInfo.cs
+C:\Users\noura\Desktop\Work\C#\C#Labs\C#Probleme-Solving\TheMaximumProfit\obj\Debug\net8.0\TheMaximumProfit.csproj.CoreCompileInputs.cache
+C:\Users\noura\Desktop\Work\C#\C#Labs\C#Probleme-Solving\TheMaximumProfit\obj\Debug\net8.0\TheMaximumProfit.sourcelink.json
+C:\Users\noura\Desktop\Work\C#\C#Labs\C#Probleme-Solving\TheMaximumProfit\obj\Debug\net8.0\TheMaximumProfit.dll
+C:\Users\noura\Desktop\Work\C#\C#Labs\C#Probleme-Solving\TheMaximumProfit\obj\Debug\net8.0\refint\TheMaximumProfit.dll
+C:\Users\noura\Desktop\Work\C#\C#Labs\C#Probleme-Solving\TheMaximumProfit\obj\Debug\net8.0\TheMaximumProfit.pdb
+C:\Users\noura\Desktop\Work\C#\C#Labs\C#Probleme-Solving\TheMaximumProfit\obj\Debug\net8.0\TheMaximumProfit.genruntimeconfig.cache
+C:\Users\noura\Desktop\Work\C#\C#Labs\C#Probleme-Solving\TheMaximumProfit\obj\Debug\net8.0\ref\TheMaximumProfit.dll

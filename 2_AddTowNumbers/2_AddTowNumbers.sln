@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_AddTowNumbers", "2_AddTowNumbers\2_AddTowNumbers.csproj", "{AD969746-6599-4D06-AF2F-46FD52E7206B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD969746-6599-4D06-AF2F-46FD52E7206B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD969746-6599-4D06-AF2F-46FD52E7206B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD969746-6599-4D06-AF2F-46FD52E7206B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD969746-6599-4D06-AF2F-46FD52E7206B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {333F2B8A-3FB0-468C-AE9E-74CD3738F940}
+	EndGlobalSection
+EndGlobal

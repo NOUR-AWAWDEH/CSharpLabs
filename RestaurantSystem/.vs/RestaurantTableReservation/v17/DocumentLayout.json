@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noura\\Desktop\\RestaurantSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA527A7-0855-486C-A9DE-D09BBA8ABD11}|ResturantSystem\\RestaurantTableReservation.csproj|c:\\users\\noura\\desktop\\restaurantsystem\\resturantsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA527A7-0855-486C-A9DE-D09BBA8ABD11}|ResturantSystem\\RestaurantTableReservation.csproj|solutionrelative:resturantsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA527A7-0855-486C-A9DE-D09BBA8ABD11}|ResturantSystem\\RestaurantTableReservation.csproj|c:\\users\\noura\\desktop\\restaurantsystem\\resturantsystem\\reservationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA527A7-0855-486C-A9DE-D09BBA8ABD11}|ResturantSystem\\RestaurantTableReservation.csproj|solutionrelative:resturantsystem\\reservationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA527A7-0855-486C-A9DE-D09BBA8ABD11}|ResturantSystem\\RestaurantTableReservation.csproj|c:\\users\\noura\\desktop\\restaurantsystem\\resturantsystem\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA527A7-0855-486C-A9DE-D09BBA8ABD11}|ResturantSystem\\RestaurantTableReservation.csproj|solutionrelative:resturantsystem\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA527A7-0855-486C-A9DE-D09BBA8ABD11}|ResturantSystem\\RestaurantTableReservation.csproj|c:\\users\\noura\\desktop\\restaurantsystem\\resturantsystem\\restauranttablereservation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2FA527A7-0855-486C-A9DE-D09BBA8ABD11}|ResturantSystem\\RestaurantTableReservation.csproj|solutionrelative:resturantsystem\\restauranttablereservation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestaurantTableReservation",
+              "DocumentMoniker": "C:\\Users\\noura\\Desktop\\RestaurantSystem\\ResturantSystem\\RestaurantTableReservation.csproj",
+              "RelativeDocumentMoniker": "ResturantSystem\\RestaurantTableReservation.csproj",
+              "ToolTip": "C:\\Users\\noura\\Desktop\\RestaurantSystem\\ResturantSystem\\RestaurantTableReservation.csproj",
+              "RelativeToolTip": "ResturantSystem\\RestaurantTableReservation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T11:54:51.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationSystem.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\Desktop\\RestaurantSystem\\ResturantSystem\\ReservationSystem.cs",
+              "RelativeDocumentMoniker": "ResturantSystem\\ReservationSystem.cs",
+              "ToolTip": "C:\\Users\\noura\\Desktop\\RestaurantSystem\\ResturantSystem\\ReservationSystem.cs",
+              "RelativeToolTip": "ResturantSystem\\ReservationSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:51:49.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\Desktop\\RestaurantSystem\\ResturantSystem\\Reservation.cs",
+              "RelativeDocumentMoniker": "ResturantSystem\\Reservation.cs",
+              "ToolTip": "C:\\Users\\noura\\Desktop\\RestaurantSystem\\ResturantSystem\\Reservation.cs",
+              "RelativeToolTip": "ResturantSystem\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:50:53.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\Desktop\\RestaurantSystem\\ResturantSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ResturantSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\noura\\Desktop\\RestaurantSystem\\ResturantSystem\\Program.cs",
+              "RelativeToolTip": "ResturantSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:50:33.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

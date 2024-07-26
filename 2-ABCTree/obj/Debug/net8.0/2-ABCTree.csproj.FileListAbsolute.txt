@@ -1,0 +1,15 @@
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\2-ABCTree\bin\Debug\net8.0\2-ABCTree.exe
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\2-ABCTree\bin\Debug\net8.0\2-ABCTree.deps.json
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\2-ABCTree\bin\Debug\net8.0\2-ABCTree.runtimeconfig.json
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\2-ABCTree\bin\Debug\net8.0\2-ABCTree.dll
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\2-ABCTree\bin\Debug\net8.0\2-ABCTree.pdb
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\2-ABCTree\obj\Debug\net8.0\2-ABCTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\2-ABCTree\obj\Debug\net8.0\2-ABCTree.AssemblyInfoInputs.cache
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\2-ABCTree\obj\Debug\net8.0\2-ABCTree.AssemblyInfo.cs
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\2-ABCTree\obj\Debug\net8.0\2-ABCTree.csproj.CoreCompileInputs.cache
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\2-ABCTree\obj\Debug\net8.0\2-ABCTree.sourcelink.json
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\2-ABCTree\obj\Debug\net8.0\2-ABCTree.dll
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\2-ABCTree\obj\Debug\net8.0\refint\2-ABCTree.dll
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\2-ABCTree\obj\Debug\net8.0\2-ABCTree.pdb
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\2-ABCTree\obj\Debug\net8.0\2-ABCTree.genruntimeconfig.cache
+C:\Users\noura\Desktop\C#Labs\C#Probleme-Solving\2-ABCTree\obj\Debug\net8.0\ref\2-ABCTree.dll
